@@ -1,0 +1,43 @@
+.edit{
+  .es{
+    display: block;
+  }
+  .myMeals{
+    display: none;
+  }
+}
+.list{
+  .es{
+    display: none;
+  }
+  .myEdits{
+    display: none;
+  }
+}
+h1{
+  font-style: italic;
+  font-family: cursive;
+  text-align: center;
+}
+.new{
+  border-right: 2px;
+  border-style: solid;
+  border-color: white;
+  border-right-color: grey;
+  margin-top: 5%;
+  background-image: url(resources/images/food.jpg);
+}
+.edit{
+  border-right: 2px;
+  border-style: solid;
+  border-color: white;
+  border-right-color: grey;
+  margin-top: 5%;
+}
+.list{
+  border-right: 2px;
+  border-style: solid;
+  border-color: white;
+  border-right-color: grey;
+  margin-top: 5%;
+}

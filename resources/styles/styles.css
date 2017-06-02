@@ -1,0 +1,19 @@
+h1{
+  font-style: italic;
+  font-family: cursive;
+  text-align: center;
+}
+.new{
+  border-right: 2px;
+  border-style: solid;
+  border-color: white;
+  border-right-color: grey;
+  margin-top: 5%
+}
+.edit{
+  border-right: 2px;
+  border-style: solid;
+  border-color: white;
+  border-right-color: grey;
+  margin-top: 5%;
+}
